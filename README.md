@@ -10,4 +10,4 @@ I just simple love the final result.
 
 ## Litle story
 This one of my favorites proyects, I have done this proyect when I didn't know about Git/Github but now is here :^)
-
+It's only Desktop view. No responsive this time.
